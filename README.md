@@ -1,4 +1,4 @@
-DOM Manipulation Project
+<h1>DOM Manipulation Projects</h1>
 Overview
 This project demonstrates various techniques for manipulating the Document Object Model (DOM) using JavaScript. It showcases how to dynamically create, modify, and delete HTML elements, as well as respond to user interactions. This project is a practical way to understand the fundamentals of web development and client-side scripting.
 
