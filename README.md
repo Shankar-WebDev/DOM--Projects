@@ -26,7 +26,8 @@ Local Storage: Use the browser's local storage to save user preferences or data.
 ```git clone https://github.com/sankar-2001/DOM--Projects.git ```
 
 <h2>Navigate to the project directory:</h2>
-```cd DOM--Project```
+
+``` cd DOM--Project ```
 
 Open index.html in your web browser to view the project.
 
